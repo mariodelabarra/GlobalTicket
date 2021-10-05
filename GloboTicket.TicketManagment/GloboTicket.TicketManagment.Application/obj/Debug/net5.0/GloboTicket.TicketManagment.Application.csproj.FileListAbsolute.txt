@@ -1,0 +1,15 @@
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\GloboTicket.TicketManagment.Application.deps.json
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\GloboTicket.TicketManagment.Application.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\ref\GloboTicket.TicketManagment.Application.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\GloboTicket.TicketManagment.Application.pdb
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\GloboTicket.TicketManagment.Domain.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\bin\Debug\net5.0\GloboTicket.TicketManagment.Domain.pdb
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.csproj.AssemblyReference.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.AssemblyInfoInputs.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.AssemblyInfo.cs
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.csproj.CoreCompileInputs.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.csproj.CopyComplete
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\ref\GloboTicket.TicketManagment.Application.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Application\obj\Debug\net5.0\GloboTicket.TicketManagment.Application.pdb

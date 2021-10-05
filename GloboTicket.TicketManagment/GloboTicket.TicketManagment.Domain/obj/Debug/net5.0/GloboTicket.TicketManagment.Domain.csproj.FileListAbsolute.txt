@@ -1,0 +1,12 @@
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\bin\Debug\net5.0\GloboTicket.TicketManagment.Domain.deps.json
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\bin\Debug\net5.0\GloboTicket.TicketManagment.Domain.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\bin\Debug\net5.0\ref\GloboTicket.TicketManagment.Domain.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\bin\Debug\net5.0\GloboTicket.TicketManagment.Domain.pdb
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.csproj.AssemblyReference.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.AssemblyInfoInputs.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.AssemblyInfo.cs
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.csproj.CoreCompileInputs.cache
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\ref\GloboTicket.TicketManagment.Domain.dll
+D:\Archivos Importantes\Proyectos\GlobalTicket\GloboTicket.TicketManagment\GloboTicket.TicketManagment.Domain\obj\Debug\net5.0\GloboTicket.TicketManagment.Domain.pdb
