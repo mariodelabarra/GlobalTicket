@@ -1,3 +1,3 @@
-# SimplyNotes
+# GlobalTicket
 
-Nota de prueba
+Test note
