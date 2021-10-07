@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9oS/3DeJyw0VqJI9PhSofL9UMtC1cLYhCgQYwwNaBUeU5vWcDLjak+KTDRQQXvfVSyi6z+83ABOTMCat2lCD2A==",
+  "dgSpecHash": "nKqE14F6JBAAeZBcvHoU2nfVlOmof8kXjxjtvJy6en22j5b9f3xhQjOwjzAghhSdlV6qQFZk4McOogu/OLq9cg==",
   "success": true,
   "projectFilePath": "D:\\Archivos Importantes\\Proyectos\\GlobalTicket\\GloboTicket.TicketManagment\\GloboTicket.TicketManagment.Application\\GloboTicket.TicketManagment.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mario\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

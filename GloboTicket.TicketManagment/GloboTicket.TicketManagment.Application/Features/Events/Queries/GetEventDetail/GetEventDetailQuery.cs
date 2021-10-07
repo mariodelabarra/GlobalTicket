@@ -1,16 +1,18 @@
-﻿using AutoMapper;
-using GloboTicket.TicketManagment.Application.Contracts.Persistence;
-using GloboTicket.TicketManagment.Domain;
-using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+using AutoMapper;
+using MediatR;
+using GloboTicket.TicketManagment.Domain;
+using GloboTicket.TicketManagment.Application.Contracts.Persistence;
 
 namespace GloboTicket.TicketManagment.Application.Features.Events
 {
+    public class GetEventDetailQuery : IRequest<EventDetailVm>
+    {
+        public Guid Id { get; set; }
+    }
+
     public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, EventDetailVm>
     {
         private readonly IAsyncRepository<Event> _eventRepository;
