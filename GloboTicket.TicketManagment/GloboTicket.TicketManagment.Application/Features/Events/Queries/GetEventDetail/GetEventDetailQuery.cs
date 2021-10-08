@@ -15,13 +15,13 @@ namespace GloboTicket.TicketManagment.Application.Features.Events
 
     public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, EventDetailVm>
     {
-        private readonly IAsyncRepository<Event> _eventRepository;
-        private readonly IAsyncRepository<Category> _categoryRepository;
+        private readonly IBaseRepository<Event> _eventRepository;
+        private readonly IBaseRepository<Category> _categoryRepository;
         private readonly IMapper _mapper;
 
         public GetEventDetailQueryHandler(IMapper mapper, 
-            IAsyncRepository<Event> eventRepository,
-            IAsyncRepository<Category> categoryRepository)
+            IBaseRepository<Event> eventRepository,
+            IBaseRepository<Category> categoryRepository)
         {
             _mapper = mapper;
             _eventRepository = eventRepository;
