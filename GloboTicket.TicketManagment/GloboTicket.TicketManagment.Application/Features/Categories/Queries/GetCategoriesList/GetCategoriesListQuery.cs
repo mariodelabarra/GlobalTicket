@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TicketManagment.Application.Features.Categories.Queries.GetCategoriesList
+namespace GloboTicket.TicketManagment.Application.Features.Categories.Queries
 {
     public class GetCategoriesListQuery : IRequest<List<CategoryListVm>>
     {
